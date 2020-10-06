@@ -1,6 +1,6 @@
 language: java
 sudo: false
-os: windows
+os: osx
 
 cache:
   directories:
